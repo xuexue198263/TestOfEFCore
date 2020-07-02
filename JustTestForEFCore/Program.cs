@@ -9,6 +9,7 @@ namespace JustTestForEFCore
             Console.WriteLine("Hello World!");
             Console.WriteLine("aaa");
             Console.WriteLine("bbadsab");
+            Console.WriteLine("wohenasdsa wu yu");
         }
     }
 }
