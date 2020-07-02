@@ -8,7 +8,7 @@ namespace JustTestForEFCore
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("aaa");
-            Console.WriteLine("bbb");
+            Console.WriteLine("bbadsab");
         }
     }
 }
